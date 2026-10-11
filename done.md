@@ -16,7 +16,7 @@
 - [x] Frontend: Next.js 14 App Router + TypeScript + Tailwind CSS + Lucide React
 - [x] `.gitignore`, `.env.example`, `.env.local.example`, `start-dev.ps1`
 - [x] Zero changes to existing Astra CRM code
-- [x] GitHub Repository created and pushed: `https://github.com/prajwalskandas31-sudo/Astra-KYC-Verification-Engine`
+- [x] GitHub Repository created and pushed: `https://github.com/prajwalskandas31-sudo/KYC-Lab`
 
 ### Phase 2: Backend Core & Local Speech Processing
 - [x] SQLite & SQLAlchemy 2.x ORM models (`Customer`, `VerificationSession`, `AnswerAttempt`)
